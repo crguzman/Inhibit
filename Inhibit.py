@@ -6,7 +6,7 @@ from selenium import webdriver
 display = Display(visible=100, size=(800, 600))
 display.start()
 
-url = 'https://latammt.proscloud.com/UI/MasterTable.html'
+url = 'https://google.com'
 
 print 'browsing with chrome2, ', url
 try:

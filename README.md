@@ -13,10 +13,10 @@ wget https://raw.githubusercontent.com/crguzman/Inhibit/master/install.sh && chm
 ...after about 5 minutes, you should see
 
 ```
-browsing with firefox, http://www.python.org
-Welcome to Python.org
 browsing with chrome, http://www.python.org
 Welcome to Python.org
 ```
+To continue using it just re run your engine and:
+chmod +x install.sh &&  ./Inhibit.py
 
 that means you've succeeded.

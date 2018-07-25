@@ -3,7 +3,7 @@
 from pyvirtualdisplay import Display
 from selenium import webdriver
 
-display = Display(visible=0, size=(800, 600))
+display = Display(visible=10, size=(800, 600))
 display.start()
 
 url = 'https://latammt.proscloud.com/UI/MasterTable.html'

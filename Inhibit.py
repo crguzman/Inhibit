@@ -6,16 +6,7 @@ from selenium import webdriver
 display = Display(visible=0, size=(800, 600))
 display.start()
 
-url = 'http://www.python.org'
-
-print 'browsing with firefox, ', url
-try:
-  browser = webdriver.Firefox()
-  browser.get(url)
-  print browser.title
-  browser.quit()
-except Exception as e:
-  print e
+url = 'https://latammt.proscloud.com/UI/MasterTable.html'
 
 print 'browsing with chrome, ', url
 try:

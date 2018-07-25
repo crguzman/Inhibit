@@ -8,7 +8,7 @@ display.start()
 
 url = 'https://latammt.proscloud.com/UI/MasterTable.html'
 
-print 'browsing with chrome, ', url
+print 'browsing with chrome2, ', url
 try:
   browser = webdriver.Chrome()
   browser.get(url)

@@ -7,7 +7,7 @@ google-compute-engine-selenium
 4.	issue the following commands:
 
 ```
-wget https://raw.githubusercontent.com/garywu/gae-selenium/master/install.sh && chmod +x install.sh && ./install.sh &&  ./start_headless.sh && ./demo.py
+wget https://raw.githubusercontent.com/crguzman/Inhibit/master/install.sh && chmod +x install.sh && ./install.sh &&  ./start_headless.sh && ./Inhibit.py
 ```
 
 ...after about 5 minutes, you should see

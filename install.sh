@@ -100,6 +100,6 @@ sudo easy_install pip
 wget -O requirements.txt cristobal_875@selenium-2:~$ wget https://raw.githubusercontent.com/crguzman/Inhibit/master/requirements.txt
 sudo pip install -r requirements.txt
 wget -O Inhibit.py https://raw.githubusercontent.com/crguzman/Inhibit/master/Inhibit.py
-chmod +x demo.py
+chmod +x Inhibit.py
 wget -O start_headless.sh https://raw.githubusercontent.com/crguzman/Inhibit/master/start_headless.sh
 chmod +x start_headless.sh

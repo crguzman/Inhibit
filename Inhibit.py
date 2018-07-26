@@ -8,7 +8,6 @@ display.start()
 
 url = 'https://google.com'
 
-#print 'browsing with chrome, HOLA VÍCTOR ', url
 try:
   browser = webdriver.Chrome()
   browser.get(url)
